@@ -74,4 +74,8 @@
 }
 .slider-container .slider-bullets .dots:hover{
     background-color: #383838;
+    cursor: pointer;
+}
+.slider-container .slider-bullets .active{
+    background-color: #383838;
 }
