@@ -31,14 +31,22 @@ body{
     from {opacity: 0.1}
     to {opacity: 1}
 }
+.slider-container .slides .slider-caption p{
+    margin: auto;
+    position: relative;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    background-color: #02041d;
+}
 .slider-container .slides .slider-caption {
+    color: rgb(255, 255, 255);
     text-align: center;
     justify-content: center;
     font-size: 25px;
     position: absolute;
     bottom: 15px;
     width: 100%;
-    color: #FFF;
     padding: 10px;
 }
 
@@ -74,16 +82,6 @@ body{
 .slider-container .slider-bullets {
     text-align: center;
 }
-
-.slider-container .slider-bullets .dots {
-    display: inline-block;
-    padding: 5px;
-    width: 10px;
-    height: 10px;
-    background-color: #808080;
-    border-radius: 50%;
-}
-
 .slider-container .slider-bullets .dots:hover {
     background-color: #383838;
     cursor: pointer;
