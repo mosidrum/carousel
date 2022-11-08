@@ -1,6 +1,6 @@
 
-# Profile_linktree
-Carousel image viewer. This is a simple project on the collection of beautiful pictures of ladies in their car 
+# Carousel Image-viewer
+Carousel image viewer. This is a simple project on the collection of beautiful pictures of ladies in their car
 ## Authors
 
 - [@mosidrum](https://www.github.com/mosidrum)
@@ -28,9 +28,9 @@ If you have any feedback on ways i can improve accordingly, please reach out to 
 View my-project with a live server on vs code
 
 ```bash
-  
+
 ```
-    
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -44,7 +44,7 @@ View my-project with a live server on vs code
 
 
 ## Lessons Learned
-Javascript is breath 
+Javascript is breath
 ## Deployment
 
 To deploy this project run
