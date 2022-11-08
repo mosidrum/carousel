@@ -26,12 +26,6 @@ function showImage(n) { // for Display the first Image
     }
     slide[slideIndex - 1].style.display = 'block';
 
-    for (i = 0; i < dots.length; i++) { // to remove the active class from other dots
-
-        dots[i].className = dots[i].className.replace(' active', '');
-    }
-
-    dots[slideIndex - 1].className += ' active';
 }
 
 showImage(slideIndex);
